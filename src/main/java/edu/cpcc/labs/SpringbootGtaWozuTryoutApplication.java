@@ -9,5 +9,5 @@ public class SpringbootGtaWozuTryoutApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootGtaWozuTryoutApplication.class, args);
 	}
-
+//test
 }
